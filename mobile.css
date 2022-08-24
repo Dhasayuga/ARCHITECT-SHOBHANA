@@ -492,7 +492,7 @@
 
   .services_section_image {
     width: 100%;
-    height: 410px;
+    height: 310px;
   }
 
   .swiper_slide_content {
@@ -537,6 +537,11 @@
     padding-right: 15px;
     padding-left: 15px;
   }
+  .image-wrapper img {
+    height: 520px;
+    max-width: 100%;
+    width: 100%;
+}
 }
 
 @media (min-width: 580px) and (max-width: 768px) {

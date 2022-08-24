@@ -542,6 +542,22 @@
     max-width: 100%;
     width: 100%;
 }
+  .service_imageicon {
+    width: 95px;
+    height: 95px;
+    border-radius: 15px;
+    background-color: #222222;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 240px;
+    margin-top: 100px;
+    z-index: 1;
+    top: 100px;
+    left: 20px;
+    overflow: hidden;
+}
 }
 
 @media (min-width: 580px) and (max-width: 768px) {

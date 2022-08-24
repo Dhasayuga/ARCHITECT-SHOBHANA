@@ -393,7 +393,7 @@
     height: auto;
   }
 
-    .member1_imagecontent {
+  .member1_imagecontent {
         content: '';
         position: relative;
         width: 200px;

@@ -2371,3 +2371,8 @@ a:not([href]):not([tabindex]) {
     outline: none;
     text-decoration: none;
 }
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+  position: absolute;
+  width: 250px;
+}

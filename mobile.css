@@ -394,14 +394,14 @@
   }
 
     .member1_imagecontent {
-    content: '';
+        content: '';
         position: relative;
         width: 200px;
         height: 80px;
         background: #2F2E2E;
         border-radius: 15px 0px 0px 0px;
         bottom: 130px;
-        left: 140px;
+        left: 104px;
         border-style: solid;
         border-width: thin;
         border-color: black;

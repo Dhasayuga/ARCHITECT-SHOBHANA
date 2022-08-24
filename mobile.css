@@ -393,18 +393,28 @@
     height: auto;
   }
 
-  .member1_imagecontent {
+    .member1_imagecontent {
     content: '';
-    position: relative;
-    width: 200px;
-    height: 100px;
-    background: #2F2E2E;
-    border-radius: 15px 0px 0px 0px;
-    bottom: 200px;
-    left: 105px;
-    border-style: solid;
-    border-width: thin;
-    border-color: black;
+        position: relative;
+        width: 200px;
+        height: 80px;
+        background: #2F2E2E;
+        border-radius: 15px 0px 0px 0px;
+        bottom: 130px;
+        left: 140px;
+        border-style: solid;
+        border-width: thin;
+        border-color: black;
+  }
+  .member1_imagetile {
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 26px;
+      line-height: 26px;
+      text-align: center;
+      color: #FFFFFF;
+      padding: 12px 0px;
   }
 
   .more_view_projectspara {

@@ -474,20 +474,20 @@ h1 {
 }
 
 .animate-first {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay: 0;
-  animation-delay: 0;
-  letter-spacing: 2px;
-  text-transform: none;
-  margin: 0px 100px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 600;
-  font-size: 40px;
-  line-height: 76px;
-  text-align: center;
-  color: #FFFFFF;
+-webkit-animation-delay: 0;
+    -moz-animation-delay: 0;
+    -o-animation-delay: 0;
+    animation-delay: 0;
+    letter-spacing: 2px;
+    text-transform: none;
+    margin: 0px 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 90px;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 .animate-second {
